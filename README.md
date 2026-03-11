@@ -26,22 +26,6 @@ This project was developed as part of a **Hackathon project** to demonstrate mob
 
 ---
 
-## EchoDiary
-│
-├── lib
-│ ├── screens
-│ ├── widgets
-│ ├── services
-│ └── main.dart
-│
-├── assets
-├── android
-├── ios
-└── pubspec.yaml
-
-
----
-
 ## ⚙️ Installation
 
 1. Clone the repository
