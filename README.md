@@ -44,17 +44,17 @@ flutter pub get
 Run the application
 
 flutter run
-👩‍💻 Team Members
+ Team Members
 
 Ashwini Pallavi
 
 Syeda Mizba
 
-🎯 Purpose
+ Purpose
 
 The goal of EchoDiary is to provide a secure and user-friendly digital diary where users can store their personal thoughts and notes with cloud backup.
 
-📌 Future Improvements
+ Future Improvements
 
 Password protection for diary entries
 
@@ -64,7 +64,7 @@ Search functionality
 
 Export diary entries
 
-⭐ Acknowledgment
+ Acknowledgment
 
 Developed during a Hackathon to explore Flutter and Firebase integration.
 
@@ -82,4 +82,4 @@ git add README.md
 git commit -m "Added README"
 git push
 
-## 📂 Project Structure
+##  Project Structure
