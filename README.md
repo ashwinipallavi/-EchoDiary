@@ -26,7 +26,7 @@ This project was developed as part of a **Hackathon project** to demonstrate mob
 
 ---
 
-EchoDiary
+## EchoDiary
 │
 ├── lib
 │ ├── screens
